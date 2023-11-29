@@ -1,0 +1,5 @@
+name,size,md5
+input_7forduló_2feladat.txt,217,35499db85b7e19cd2151d03d23469018
+teszt_input_7forduló.txt,106,34a4ce29ddfa7a372bb15994dd28938c
+input_7forduló_3feladat.txt,417,698dfde2a802b72a4fd7da4580680ad9
+input_7forduló_4feladat.txt,2007,85104dc3a58c33b48913587e84cfd3da
